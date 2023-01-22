@@ -1,0 +1,14 @@
+.forum:hover{
+    box-decoration-break: slice;
+    box-shadow: 3px 3px 3px -3px #0B2EDD,
+    -3px -3px 3px -3px #C460AE,
+    3px 3px 3px 3px #BCB598;
+}
+.forum{
+    grid-area: forum;
+    background-color: #d99000;
+    border-radius: 3px;
+    margin: 5px;
+    text-align: center;
+    box-shadow: inset 0px 0px 2px 2px aqua;
+}

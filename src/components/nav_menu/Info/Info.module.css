@@ -1,0 +1,12 @@
+.info:hover{
+    box-shadow: 0px 0px 2px 2px aqua;
+}
+
+.info{
+    grid-area: info;
+    background-color: #d99000;
+    border-radius: 3px;
+    margin: 5px;
+    text-align: center;
+    box-shadow: inset 0px 0px 2px 2px aqua;
+}

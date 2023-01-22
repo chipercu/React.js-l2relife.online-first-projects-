@@ -1,0 +1,23 @@
+.content {
+    height: 100%;
+    display: grid;
+    grid-template-areas: "";
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-area: c;
+
+}
+.content text:hover{
+    font-size: 36px;
+}
+
+.content img {
+    margin-left: 25%;
+    margin-top: 25%;
+    border-radius: 20px;
+    width: 50%;
+}
+
+.content img:hover {
+    box-shadow: 0 0 5px 5px rgba(120, 19, 179, 0.5);
+}
