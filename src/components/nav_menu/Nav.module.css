@@ -17,6 +17,10 @@
             0px 0px 2px 2px #02efef;
 }
 .nav_txt{
+    text-anchor: middle;
     font-size:36px;
     text-decoration-line: none;
+}
+.nav_txt:hover{
+    cursor: context-menu;
 }

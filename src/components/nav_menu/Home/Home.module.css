@@ -9,3 +9,11 @@
     text-align: center;
     box-shadow: inset 0px 0px 2px 2px aqua;
 }
+.home1{
+    grid-area: home;
+    background-color: #bdb8ad;
+    border-radius: 3px;
+    margin: 5px;
+    text-align: center;
+    box-shadow: inset 0px 0px 2px 2px aqua;
+}
