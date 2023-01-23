@@ -4,7 +4,7 @@ import nav_css from '../Nav.module.css'
 
 const NavMenuForum = () => {
     return(
-            <div className={css.forum}>
+            <div className={nav_css.myButton}>
                 <a className={nav_css.nav_txt} href='#'>Forum</a>
             </div>
     )
