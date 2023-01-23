@@ -6,7 +6,7 @@ import nav_css from '../Nav.module.css'
 
 const MainDiv = (props) => {
     return (
-        <div id="main" className={css.home}>
+        <div id="main" className={nav_css.myButton}>
             <InnerDiv/>
         </div>
     );
